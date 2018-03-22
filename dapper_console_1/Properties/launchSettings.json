@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "dapper_console_1": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Clave": "Valor"
+      }
+    }
+  }
+}
